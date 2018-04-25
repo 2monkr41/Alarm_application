@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarm_application</string>
+    <string name="timePicker">Time_Picker</string>
+    <string name="toggleButton">Time_Picker</string>
+</resources>
